@@ -14,6 +14,7 @@ The following data are provided:
 3. pricing.csv which is the daily schedule of prices for the in-app purchase for the 20150403 to 20161001 timeframe.
 4. transaction.csv which is the log of user in-app purchases for the 20150403 to 20160702 timeframe.
 <img width="479" alt="TableDescription" src="https://github.com/user-attachments/assets/d14981e2-8015-4cb7-ab83-764e7a93050c">
+
 3-Instructions
 3.1 Predicting weekly revenue :
 In this problem, the goal is to predict the weekly revenue of the app for the weeks in the 20160703 to 201601001 timeframe.
